@@ -1,0 +1,15 @@
+/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/bin/Debug/net7.0/UOW.BLL.deps.json
+/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/bin/Debug/net7.0/UOW.BLL.dll
+/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/bin/Debug/net7.0/UOW.BLL.pdb
+/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/bin/Debug/net7.0/UOW.DAL.dll
+/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/bin/Debug/net7.0/UOW.DAL.pdb
+/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/obj/Debug/net7.0/UOW.BLL.csproj.AssemblyReference.cache
+/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/obj/Debug/net7.0/UOW.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/obj/Debug/net7.0/UOW.BLL.AssemblyInfoInputs.cache
+/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/obj/Debug/net7.0/UOW.BLL.AssemblyInfo.cs
+/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/obj/Debug/net7.0/UOW.BLL.csproj.CoreCompileInputs.cache
+/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/obj/Debug/net7.0/UOW.BLL.csproj.CopyComplete
+/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/obj/Debug/net7.0/UOW.BLL.dll
+/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/obj/Debug/net7.0/refint/UOW.BLL.dll
+/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/obj/Debug/net7.0/UOW.BLL.pdb
+/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/obj/Debug/net7.0/ref/UOW.BLL.dll

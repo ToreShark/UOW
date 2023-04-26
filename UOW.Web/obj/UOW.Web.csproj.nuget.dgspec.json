@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.Web/UOW.Web.csproj": {}
+  },
+  "projects": {
+    "/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/UOW.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/UOW.BLL.csproj",
+        "projectName": "UOW.BLL",
+        "projectPath": "/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/UOW.BLL.csproj",
+        "packagesPath": "/Users/torekhanmukhtarov/.nuget/packages/",
+        "outputPath": "/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/torekhanmukhtarov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.DAL/UOW.DAL.csproj": {
+                "projectPath": "/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.DAL/UOW.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.DAL/UOW.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.DAL/UOW.DAL.csproj",
+        "projectName": "UOW.DAL",
+        "projectPath": "/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.DAL/UOW.DAL.csproj",
+        "packagesPath": "/Users/torekhanmukhtarov/.nuget/packages/",
+        "outputPath": "/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.DAL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/torekhanmukhtarov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.Web/UOW.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.Web/UOW.Web.csproj",
+        "projectName": "UOW.Web",
+        "projectPath": "/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.Web/UOW.Web.csproj",
+        "packagesPath": "/Users/torekhanmukhtarov/.nuget/packages/",
+        "outputPath": "/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.Web/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/torekhanmukhtarov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/UOW.BLL.csproj": {
+                "projectPath": "/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.BLL/UOW.BLL.csproj"
+              },
+              "/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.DAL/UOW.DAL.csproj": {
+                "projectPath": "/Users/torekhanmukhtarov/Desktop/c#/UOW/UOW.DAL/UOW.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
