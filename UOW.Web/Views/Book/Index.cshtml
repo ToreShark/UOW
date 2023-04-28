@@ -1,0 +1,10 @@
+@model IEnumerable<UOW.DAL.Entities.Book>
+
+@{
+}
+<h2>Books</h2>
+@foreach (Book book in Model)
+{
+    <p>@book.Name</p>
+}
+
